@@ -1,0 +1,10 @@
+expense-tracker/
+│── db.php               # Database connection
+│── index.php            # Dashboard (UI + forms + charts)
+│── add_income.php       # Add income logic
+│── add_expense.php      # Add expense logic
+│── fetch_data.php       # Returns JSON for charts/summary
+│── expense_tracker.sql  # Database schema
+│── assets/
+     ├── css/
+     ├── js/
